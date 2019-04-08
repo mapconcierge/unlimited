@@ -10,6 +10,12 @@
 
 <h4>・TRY AND ERROR</h4> <a>アンリミテッドでは大学生だれでもできることは求められていません。積極的に挑戦してください。本番でのミスは望ましくありませんが、そこまでのプロセスでのミスはたくさんあって当たり前です</a>
 
+# 公式コミュニケーションツール
+
+Slack　ー　https://aguunlimited.slack.com/
+
+Facebookグループ　ー　
+
 # 公式情報発信サイト
 
 Twitter - https://twitter.com/un_limited_8
