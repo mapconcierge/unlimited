@@ -19,7 +19,6 @@ Instagram - https://www.instagram.com/un_limited_8/
 HP-https://obaunlimited.wixsite.com/2017/un-limited
 
 # 目的
-
 <h2>大学生の「当たり前」を国境を超えて壊す</h2>
 <a>従来の与えられたものをこなすという大学生の「当たり前」を自ら足をうごし学ぶという新しい「当たり前」</a>
 
