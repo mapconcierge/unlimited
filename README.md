@@ -13,7 +13,10 @@
 # 公式情報発信サイト
 
 Twitter - https://twitter.com/un_limited_8
+
 Instagram - https://www.instagram.com/un_limited_8/
+
+HP-https://obaunlimited.wixsite.com/2017/un-limited
 
 # 目的
 
@@ -58,12 +61,12 @@ Instagram - https://www.instagram.com/un_limited_8/
 
 <h2>2． テクノロジー環境について</h2>
 
-【BE an Apple devotee】
+<h4>【BE an Apple devotee】</h4>
 UN:LIMITEDでは、クリエイティブ性を重視しApple製品を推奨しています。MacBookを所有していない人は購入を考えてください。
 
 Appleの学生・教職員価格：https://www.apple.com/jp_edu_5002508/shop
 
-【Use Technology as much as possible】
+<h4>【Use Technology as much as possible】</h4>
 UN:LIMITEDでは以下のツールを主に使用します。
 
 ・Googleサービス（ドキュメント、フォーム、カレンダー、Chromeなど）
@@ -74,7 +77,7 @@ UN:LIMITEDでは以下のツールを主に使用します。
 
 上記のほとんどのツールを今まで使用してこなかったと思いますが、これらのツールはプロジェクトやチームを円滑にマネジメントするためには最前のツールであり方法です。そして、多くの企業（クックパッド、日経新聞、DeNA、メルカリなど）で使用されています。これらのツールを使いこなすことは卒業後にも必ず活きてきます。
 
-【Google, then ask】
+<h4>【Google, then ask】</h4>
 アンリミテッドで活動するうえででわからないことがたくさんあるでしょう。そんな時、まずググってください。あなたの「将来の夢」以外はほとんどGoogle先生が解決してくれるはずです。それでも、わからないことは積極的に聞いてください。
 
 ・相談先リスト
@@ -89,16 +92,16 @@ HOW TO的なこと（プロジェクトの進め方、スタディツアーの�
 
 # アンリマーの標準装備
 
-<h4>パスポート</h4>
+<h4>・パスポート</h4>
 海外のスタディーツアーに3年で一回は参加してみてください。あなたの人生が変わります。
 
-<h4>MacBook</h4>
+<h4>・MacBook</h4>
 ウィンドウズなんてパソコンじゃねぇ！by大庭
 
-<h4>クレジットカード</h4>
+<h4>・クレジットカード</h4>
 スタディツアー中の緊急事態や交通手段の予約に各自で使用します
 
-<h4>やる気</h4>
+<h4>・やる気</h4>
 人数の多さより一人一人の質です。
 
 # アルバイトについて
