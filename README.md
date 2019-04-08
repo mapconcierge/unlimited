@@ -14,7 +14,7 @@
 
 Slack　ー　https://aguunlimited.slack.com/
 
-Facebookグループ　ー　
+Facebookグループ　ー　https://www.facebook.com/groups/602658266915770/
 
 # 公式情報発信サイト
 
