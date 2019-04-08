@@ -70,7 +70,9 @@ Appleの学生・教職員価格：https://www.apple.com/jp_edu_5002508/shop
 
 UN:LIMITEDでは以下のツールを主に使用します。
 
-<h5>・Googleサービス（ドキュメント、フォーム、カレンダー、Chromeなど）
+<h5>
+  
+ ・Googleサービス（ドキュメント、フォーム、カレンダー、Chromeなど）
 
 ・Slack（メインコミュニケーションツール）
 
