@@ -75,9 +75,11 @@ HP-https://obaunlimited.wixsite.com/2017/un-limited
 <h2>2． テクノロジー環境について</h2>
 
 <h4>【BE an Apple devotee】</h4>
+
 UN:LIMITEDでは、クリエイティブ性を重視しApple製品を推奨しています。MacBookを所有していない人は購入を考えてください。
 
-Appleの学生・教職員価格：https://www.apple.com/jp_edu_5002508/shop
+Appleの学生・教職員価格
+https://www.apple.com/jp_edu_5002508/shop
 
 <h4>【Use Technology as much as possible】</h4>
 
