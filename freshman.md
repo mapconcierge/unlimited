@@ -48,4 +48,4 @@ KICK FOR AFRICA〜チャリティフットサル大会（https://twitter.com/un_
 
 https://github.com/Keitaoba828/unlimited/blob/master/README.md
 
-<h4>なぜやるのか</h4>
+<h2>なぜやるのか</h2>
