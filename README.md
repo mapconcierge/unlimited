@@ -1,6 +1,6 @@
 # UN:LIMITED/このサークルの特徴
 
-<img unlimited.jpg>
+![unlimi](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg)
 
 青山学院大学アンリミテッドに興味のある学生は、必ず最初に読んでください
 
